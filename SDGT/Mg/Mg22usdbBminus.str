@@ -2,7 +2,8 @@
   5  1   ! Valence Z   N for daughter 
  100     ! # parents 
     1   -57.578  0.0  1.0    ! parent  Energy  J     T
-  15     ! # daughters 
+  16     ! # daughters
+    0   -57.578  0.0  1.0    0.0000    ! gs to gs 
     5   -42.153  1.0  2.0    0.0354    ! daughter  Energy  J     T   strength 
     8   -41.175  1.0  2.0    0.1124    ! daughter  Energy  J     T   strength 
    13   -40.467  1.0  2.0    0.0278    ! daughter  Energy  J     T   strength 
