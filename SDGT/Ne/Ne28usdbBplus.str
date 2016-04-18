@@ -1,0 +1,1628 @@
+  2 12   ! Valence Z   N for parent 
+  1 11   ! Valence Z   N for daughter 
+  98     ! # parents 
+    1   -86.543  0.0  4.0    ! parent  Energy  J     T
+   8     ! # daughters
+    0   -86.543  0.0  4.0    0.0000    ! gs to gs 
+    4   -59.624  1.0  5.0    0.0062    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+    1: Sum =     0.0123
+    2   -84.920  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0095    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    2: Sum =     0.0140
+    3   -83.552  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0664    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    3: Sum =     0.0709
+    4   -83.032  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.1855    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0843    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+    4: Sum =     0.2776
+    5   -82.555  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0661    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0167    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    5: Sum =     0.0922
+    6   -81.673  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.1190    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0117    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0026    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    6: Sum =     0.1384
+    7   -81.635  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0880    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0289    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.1981    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0026    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    7: Sum =     0.3212
+    8   -81.583  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.4758    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0056    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0024    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0051    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    8: Sum =     0.4956
+    9   -80.974  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.1827    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.1560    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0113    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    9: Sum =     0.3560
+   10   -80.934  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0100    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0042    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0084    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0049    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0021    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   10: Sum =     0.0417
+   11   -80.744  6.0  4.0    ! parent  Energy  J     T
+   1     ! # daughters 
+   14   -53.758  5.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+   11: Sum =     0.0027
+   12   -80.553  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.2548    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0024    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   12: Sum =     0.2589
+   13   -80.452  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.4742    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0415    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   13: Sum =     0.5183
+   14   -80.280  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0206    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.1130    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0667    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0159    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0083    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0296    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   14: Sum =     0.2570
+   15   -80.244  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.3127    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0091    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   15: Sum =     0.3255
+   16   -80.147  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.1022    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.4834    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0063    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   16: Sum =     0.6024
+   17   -80.101  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0589    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0262    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0112    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0032    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   17: Sum =     0.1070
+   18   -79.783  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0500    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.1302    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.6850    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0218    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0059    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18: Sum =     0.8994
+   19   -79.622  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0086    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0382    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   19: Sum =     0.0487
+   20   -79.608  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.1512    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0820    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0235    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0162    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0185    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20: Sum =     0.2973
+   21   -79.136  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0077    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0185    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0047    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21: Sum =     0.0364
+   22   -79.127  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.1640    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0526    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0185    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0101    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0054    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22: Sum =     0.2594
+   23   -78.885  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.1528    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0026    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0207    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0154    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23: Sum =     0.1927
+   24   -78.719  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0316    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0042    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24: Sum =     0.0388
+   25   -78.676  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0738    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25: Sum =     0.0743
+   26   -78.540  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0109    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0217    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0094    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0621    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0535    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0318    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26: Sum =     0.1933
+   27   -78.224  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0103    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0164    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0055    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0061    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0052    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27: Sum =     0.0551
+   28   -78.190  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0124    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0958    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.2519    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0168    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0025    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   28: Sum =     0.3825
+   29   -78.129  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0245    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0393    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0240    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0061    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   29: Sum =     0.0968
+   30   -77.952  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.1161    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0426    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0107    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   30: Sum =     0.1739
+   31   -77.923  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0182    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0239    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0875    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.1643    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.2232    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0569    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0072    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   31: Sum =     0.5911
+   32   -77.813  6.0  4.0    ! parent  Energy  J     T
+   1     ! # daughters 
+   14   -53.758  5.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   32: Sum =     0.0001
+   33   -77.640  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0048    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0079    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0397    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.1604    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0095    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0042    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   33: Sum =     0.2335
+   34   -77.540  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0159    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0052    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0666    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.1759    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0162    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   34: Sum =     0.2915
+   35   -77.490  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0693    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0128    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.2501    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0421    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0371    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0086    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0034    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   35: Sum =     0.4285
+   36   -77.325  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0584    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0044    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   36: Sum =     0.0685
+   37   -77.237  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0085    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0663    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.1071    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0065    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0098    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   37: Sum =     0.2013
+   38   -77.199  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0043    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0278    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0235    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0532    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0728    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0195    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0036    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0092    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   38: Sum =     0.2185
+   39   -77.187  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.1347    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0039    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0064    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0367    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   39: Sum =     0.1833
+   40   -77.073  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0155    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0192    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0065    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0572    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0143    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0340    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0098    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0137    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0046    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0032    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   40: Sum =     0.1833
+   41   -77.049  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0023    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0041    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0050    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   41: Sum =     0.0115
+   42   -76.883  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0102    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0266    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0094    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0223    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.1548    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0054    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0364    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0151    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0242    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   42: Sum =     0.3085
+   43   -76.870  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0489    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0178    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0222    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0057    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.1666    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0050    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   43: Sum =     0.2743
+   44   -76.861  6.0  4.0    ! parent  Energy  J     T
+   1     ! # daughters 
+   14   -53.758  5.0  5.0    0.0043    ! daughter  Energy  J     T   strength 
+   44: Sum =     0.0043
+   45   -76.788  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0373    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0159    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0145    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0253    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.1807    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   45: Sum =     0.2809
+   46   -76.753  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0453    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0086    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0862    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0395    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0597    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0051    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0302    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0072    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0094    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   46: Sum =     0.2987
+   47   -76.745  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0565    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0108    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0352    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0090    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0097    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0026    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   47: Sum =     0.1259
+   48   -76.626  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.1642    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0495    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0388    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0023    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   48: Sum =     0.2594
+   49   -76.553  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0050    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0034    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   49: Sum =     0.0101
+   50   -76.480  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0045    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0070    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.1872    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0240    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0190    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0336    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   50: Sum =     0.2835
+   51   -76.260  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.1134    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0128    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0352    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0040    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0092    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   51: Sum =     0.1844
+   52   -76.179  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0023    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0039    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0196    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.1283    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0357    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0641    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0151    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0152    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0071    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   52: Sum =     0.3073
+   53   -76.160  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0112    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0106    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0361    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.3989    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0712    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0079    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0292    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0018    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   53: Sum =     0.5730
+   54   -76.030  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0121    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0212    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0068    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0201    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0062    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   54: Sum =     0.0787
+   55   -76.030  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0353    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0058    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0077    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0184    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0493    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0580    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0334    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0053    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0045    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   55: Sum =     0.2252
+   56   -76.020  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0137    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0042    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0555    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0068    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0115    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   56: Sum =     0.0954
+   57   -75.789  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0422    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0107    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   57: Sum =     0.0539
+   58   -75.785  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0575    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0325    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0901    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0092    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0047    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0064    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0221    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0112    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0046    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0046    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0056    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0021    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   58: Sum =     0.2603
+   59   -75.724  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0484    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0219    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.1312    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0455    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0326    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   59: Sum =     0.2894
+   60   -75.536  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0105    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0079    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0255    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0056    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   60: Sum =     0.0555
+   61   -75.448  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0393    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0767    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0228    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.1101    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0094    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0409    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0076    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0242    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0158    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0024    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   61: Sum =     0.3585
+   62   -75.419  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0556    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0024    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0300    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0258    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0535    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0774    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0379    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0432    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   62: Sum =     0.3323
+   63   -75.338  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0653    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0842    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0278    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0349    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0071    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   63: Sum =     0.2199
+   64   -75.295  6.0  4.0    ! parent  Energy  J     T
+   1     ! # daughters 
+   14   -53.758  5.0  5.0    0.0040    ! daughter  Energy  J     T   strength 
+   64: Sum =     0.0040
+   66   -75.180  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0342    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0042    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0182    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.1662    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.1380    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0114    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0031    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0026    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   66: Sum =     0.3858
+   67   -75.180  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0064    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0097    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0186    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0514    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.1703    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0170    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0031    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0032    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   67: Sum =     0.2861
+   68   -75.163  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0514    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0037    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0114    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+   68: Sum =     0.0685
+   69   -75.069  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0831    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0093    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0179    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.1591    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0152    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0044    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0046    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0024    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   69: Sum =     0.3001
+   70   -75.014  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0626    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0335    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0062    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0050    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0209    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0147    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   70: Sum =     0.1449
+   71   -74.877  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0419    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0113    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0735    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0484    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0526    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0072    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0079    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0040    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   71: Sum =     0.2553
+   72   -74.709  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0100    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0177    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0023    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.1056    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0188    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0245    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0133    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0105    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   72: Sum =     0.2104
+   73   -74.687  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0207    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0069    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0143    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0967    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0209    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0201    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0269    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   73: Sum =     0.2130
+   74   -74.542  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0442    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0123    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0061    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0132    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.1229    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0295    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   74: Sum =     0.2304
+   75   -74.526  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.0883    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0887    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0328    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.1281    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   75: Sum =     0.3387
+   76   -74.514  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0216    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0253    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.1000    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0365    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0086    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0101    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0410    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0133    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0034    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   76: Sum =     0.2637
+   77   -74.448  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0584    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0025    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0321    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0322    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0155    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0110    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0171    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0055    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0025    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   77: Sum =     0.1870
+   78   -74.377  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0074    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0195    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0034    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.1377    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0268    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0345    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0617    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0152    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0102    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0034    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   78: Sum =     0.3273
+   79   -74.365  6.0  4.0    ! parent  Energy  J     T
+   1     ! # daughters 
+   14   -53.758  5.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   79: Sum =     0.0003
+   80   -74.364  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0057    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0041    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.1975    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0121    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0400    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0705    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0025    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   80: Sum =     0.3397
+   81   -74.279  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0298    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0917    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0103    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0054    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0371    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0028    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.1259    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0162    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0021    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   81: Sum =     0.3255
+   82   -74.268  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0022    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0102    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0051    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   82: Sum =     0.0177
+   83   -74.262  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.1202    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0624    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0164    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0133    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0166    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0039    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   83: Sum =     0.2371
+   84   -74.147  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0020    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0600    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0627    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   84: Sum =     0.1252
+   86   -74.066  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0072    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0047    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0160    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0464    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0098    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0429    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0083    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0038    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   86: Sum =     0.1430
+   87   -74.014  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0197    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0194    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0375    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0224    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0112    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0051    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0056    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0014    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   87: Sum =     0.1290
+   88   -73.871  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0051    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0351    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0156    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0335    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0377    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0193    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0016    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   88: Sum =     0.1545
+   89   -73.814  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0238    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0060    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0007    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.1626    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.1875    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0019    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0285    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0035    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0120    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   89: Sum =     0.4300
+   90   -73.788  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0059    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0086    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   90: Sum =     0.0146
+   91   -73.746  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0046    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0271    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0021    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0091    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0108    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0055    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0162    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0147    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0594    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0084    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0461    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0065    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0025    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   91: Sum =     0.2179
+   92   -73.727  1.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -61.356  2.0  5.0    0.0164    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0090    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0031    ! daughter  Energy  J     T   strength 
+    8   -56.291  0.0  5.0    0.0038    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0430    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0242    ! daughter  Energy  J     T   strength 
+   17   -52.640  0.0  5.0    0.0123    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0150    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0061    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0011    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0029    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   92: Sum =     0.1409
+   93   -73.588  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.2709    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0229    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0033    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0111    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   93: Sum =     0.3105
+   94   -73.531  6.0  4.0    ! parent  Energy  J     T
+   1     ! # daughters 
+   14   -53.758  5.0  5.0    0.2028    ! daughter  Energy  J     T   strength 
+   94: Sum =     0.2028
+   95   -73.489  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0219    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0054    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.1429    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0240    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0153    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0027    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0044    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0495    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0309    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0501    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0229    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0154    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0247    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0010    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0006    ! daughter  Energy  J     T   strength 
+   95: Sum =     0.4149
+   96   -73.471  0.0  4.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    4   -59.624  1.0  5.0    0.0066    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0114    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0021    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.3157    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0080    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0013    ! daughter  Energy  J     T   strength 
+   96: Sum =     0.3452
+   97   -73.419  4.0  4.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    1   -61.462  3.0  5.0    0.0603    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0098    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0005    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0189    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0034    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.0598    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0084    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   97: Sum =     0.1614
+   98   -73.378  3.0  4.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    1   -61.462  3.0  5.0    0.0501    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.1095    ! daughter  Energy  J     T   strength 
+    3   -60.589  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0017    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0130    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0086    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0847    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0217    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0363    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0052    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0015    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   98: Sum =     0.3336
+   99   -73.319  5.0  4.0    ! parent  Energy  J     T
+   4     ! # daughters 
+    3   -60.589  4.0  5.0    0.0012    ! daughter  Energy  J     T   strength 
+   12   -54.113  4.0  5.0    0.0587    ! daughter  Energy  J     T   strength 
+   14   -53.758  5.0  5.0    0.1482    ! daughter  Energy  J     T   strength 
+   26   -46.052  4.0  5.0    0.0003    ! daughter  Energy  J     T   strength 
+   99: Sum =     0.2084
+  100   -73.263  2.0  4.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -61.462  3.0  5.0    0.0323    ! daughter  Energy  J     T   strength 
+    2   -61.356  2.0  5.0    0.0904    ! daughter  Energy  J     T   strength 
+    4   -59.624  1.0  5.0    0.0004    ! daughter  Energy  J     T   strength 
+    5   -58.165  1.0  5.0    0.0214    ! daughter  Energy  J     T   strength 
+    6   -58.006  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+    7   -57.534  3.0  5.0    0.0030    ! daughter  Energy  J     T   strength 
+    9   -55.917  2.0  5.0    0.0063    ! daughter  Energy  J     T   strength 
+   10   -55.215  2.0  5.0    0.0637    ! daughter  Energy  J     T   strength 
+   11   -54.197  3.0  5.0    0.0489    ! daughter  Energy  J     T   strength 
+   13   -53.910  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   15   -53.680  3.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   16   -53.337  1.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   18   -52.530  2.0  5.0    0.0100    ! daughter  Energy  J     T   strength 
+   19   -50.961  1.0  5.0    0.0008    ! daughter  Energy  J     T   strength 
+   20   -50.681  2.0  5.0    0.0109    ! daughter  Energy  J     T   strength 
+   21   -50.469  3.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+   22   -49.356  1.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   23   -48.944  2.0  5.0    0.0009    ! daughter  Energy  J     T   strength 
+   24   -47.192  3.0  5.0    0.0001    ! daughter  Energy  J     T   strength 
+   25   -46.563  2.0  5.0    0.0000    ! daughter  Energy  J     T   strength 
+   27   -40.472  1.0  5.0    0.0002    ! daughter  Energy  J     T   strength 
+  100: Sum =     0.2906
