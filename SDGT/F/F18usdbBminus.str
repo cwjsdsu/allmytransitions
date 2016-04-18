@@ -1,5 +1,5 @@
   1  1   ! Valence Z   N for parent 
-  0  2   ! Valence Z   N for daughter 
+  2  0   ! Valence Z   N for daughter 
   28     ! # parents 
     1   -13.413  1.0  0.0    ! parent  Energy  J     T
   11     ! # daughters 
