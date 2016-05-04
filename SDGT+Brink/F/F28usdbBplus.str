@@ -1,0 +1,31 @@
+  1 11   ! Valence Z   N for parent 
+  0 12   ! Valence Z   N for daughter 
+   7     ! # parents 
+    4   -59.624  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    0.6529    ! daughter  Energy  J     T   strength 
+    4: Sum =     0.6529
+    5   -58.165  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    0.0752    ! daughter  Energy  J     T   strength 
+    5: Sum =     0.0752
+   13   -53.910  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    0.0012    ! daughter  Energy  J     T   strength 
+   13: Sum =     0.0012
+   16   -53.337  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    0.0796    ! daughter  Energy  J     T   strength 
+   16: Sum =     0.0796
+   19   -50.961  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    0.8747    ! daughter  Energy  J     T   strength 
+   19: Sum =     0.8747
+   22   -49.356  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    0.4500    ! daughter  Energy  J     T   strength 
+   22: Sum =     0.4500
+   27   -40.472  1.0  5.0    ! parent  Energy  J     T
+   1     ! # daughters 
+    1   -38.886  0.0  6.0    9.8664    ! daughter  Energy  J     T   strength 
+   27: Sum =     9.8664
