@@ -1,0 +1,519 @@
+  2  0   ! Valence Z   N for parent                         
+  1  1   ! Valence Z   N for daughter                       
+  28     ! # parents 
+    1   -11.932  0.0  1.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    1   -13.413  1.0  0.0    5.1939    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0723    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.0603    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.0727    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.5911    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0036    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.0061    ! daughter  Energy  J     T   strength 
+    1: Sum =     6.0000                                     
+    2    -9.933  2.0  1.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -13.413  1.0  0.0    0.0003    ! daughter  Energy  J     T   strength 
+    2   -12.469  3.0  0.0    1.9630    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.1308    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.2163    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.0822    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    1.1509    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.0679    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.0721    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    1.0159    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.3661    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.0380    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.0073    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.4878    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    0.0045    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.2317    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.0904    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.0008    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0651    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.0003    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.0084    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.0000    ! daughter  Energy  J     T   strength 
+    2: Sum =     6.0000                                     
+    3    -8.405  4.0  1.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    2   -12.469  3.0  0.0    0.0272    ! daughter  Energy  J     T   strength 
+    3   -12.172  5.0  0.0    1.0567    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.2043    ! daughter  Energy  J     T   strength 
+    9    -8.405  4.0  1.0    0.8058    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.0086    ! daughter  Energy  J     T   strength 
+   13    -6.433  4.0  0.0    0.8645    ! daughter  Energy  J     T   strength 
+   17    -2.912  4.0  1.0    0.6135    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    1.5389    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.8430    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.0374    ! daughter  Energy  J     T   strength 
+    3: Sum =     6.0000                                     
+    4    -7.572  2.0  1.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -13.413  1.0  0.0    0.0600    ! daughter  Energy  J     T   strength 
+    2   -12.469  3.0  0.0    0.2406    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.0679    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0467    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    1.5399    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.8182    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.1467    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.3239    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.0048    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.7965    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    1.0137    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.0536    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.2865    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    0.0030    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.1417    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.0199    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.1002    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.3286    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.0029    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.0025    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.0021    ! daughter  Energy  J     T   strength 
+    4: Sum =     6.0000                                     
+    5    -7.339  0.0  1.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    1   -13.413  1.0  0.0    0.1373    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    5.0012    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.5801    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.0602    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.2196    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0013    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.0003    ! daughter  Energy  J     T   strength 
+    5: Sum =     6.0001                                     
+    6    -6.505  3.0  1.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -12.469  3.0  0.0    0.0004    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.0515    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.0023    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.3626    ! daughter  Energy  J     T   strength 
+    9    -8.405  4.0  1.0    0.0111    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.2314    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    2.6263    ! daughter  Energy  J     T   strength 
+   13    -6.433  4.0  0.0    0.0000    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.0454    ! daughter  Energy  J     T   strength 
+   17    -2.912  4.0  1.0    0.0085    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.0075    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.1206    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    1.5717    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.0151    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.9139    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.0101    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.0218    ! daughter  Energy  J     T   strength 
+    6: Sum =     6.0000                                     
+    7    -2.912  4.0  1.0    ! parent  Energy  J     T
+  10     ! # daughters 
+    2   -12.469  3.0  0.0    0.0151    ! daughter  Energy  J     T   strength 
+    3   -12.172  5.0  0.0    1.3878    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.0445    ! daughter  Energy  J     T   strength 
+    9    -8.405  4.0  1.0    0.6135    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.0066    ! daughter  Energy  J     T   strength 
+   13    -6.433  4.0  0.0    1.1354    ! daughter  Energy  J     T   strength 
+   17    -2.912  4.0  1.0    0.4672    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.0138    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.6418    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    1.6742    ! daughter  Energy  J     T   strength 
+    7: Sum =     6.0000                                     
+    8    -2.051  2.0  1.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -13.413  1.0  0.0    0.0814    ! daughter  Energy  J     T   strength 
+    2   -12.469  3.0  0.0    0.3770    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.4878    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0602    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.5079    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.0113    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.2865    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.1688    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.0004    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.4500    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.0643    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.0135    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.6199    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    0.1144    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.5812    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.3967    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.0010    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0786    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.0633    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    1.1521    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.4836    ! daughter  Energy  J     T   strength 
+    8: Sum =     6.0000                                     
+    9    -1.162  1.0  1.0    ! parent  Energy  J     T
+  18     ! # daughters 
+    1   -13.413  1.0  0.0    0.1138    ! daughter  Energy  J     T   strength 
+    4   -11.932  0.0  1.0    0.1970    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.3861    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.2488    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.0022    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.2362    ! daughter  Energy  J     T   strength 
+   11    -7.339  0.0  1.0    0.0732    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.2121    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.0003    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.3902    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.9687    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    0.0097    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.9757    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.0029    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0243    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    1.0228    ! daughter  Energy  J     T   strength 
+   27     3.077  0.0  1.0    1.0549    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.0810    ! daughter  Energy  J     T   strength 
+    9: Sum =     6.0000                                     
+   10    -0.991  3.0  1.0    ! parent  Energy  J     T
+  17     ! # daughters 
+    2   -12.469  3.0  0.0    0.0417    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.0646    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.2274    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.0037    ! daughter  Energy  J     T   strength 
+    9    -8.405  4.0  1.0    1.0838    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.0142    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.0151    ! daughter  Energy  J     T   strength 
+   13    -6.433  4.0  0.0    0.0000    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.0005    ! daughter  Energy  J     T   strength 
+   17    -2.912  4.0  1.0    0.8252    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.7278    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.2833    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    0.0161    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.1770    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.1012    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.9828    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    1.4356    ! daughter  Energy  J     T   strength 
+   10: Sum =     6.0000                                     
+   11    -0.901  2.0  1.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -13.413  1.0  0.0    0.0009    ! daughter  Energy  J     T   strength 
+    2   -12.469  3.0  0.0    0.1710    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.0008    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0079    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.5231    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.0012    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.1002    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    1.2795    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.0898    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.0403    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.1221    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.0007    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.0010    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    1.8730    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.0017    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    0.1417    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.1756    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    1.3204    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    0.0066    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.0926    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.0498    ! daughter  Energy  J     T   strength 
+   11: Sum =     6.0000                                     
+   12    -0.577  1.0  1.0    ! parent  Energy  J     T
+  18     ! # daughters 
+    1   -13.413  1.0  0.0    0.0007    ! daughter  Energy  J     T   strength 
+    4   -11.932  0.0  1.0    0.0012    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.1086    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0015    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.3640    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.5477    ! daughter  Energy  J     T   strength 
+   11    -7.339  0.0  1.0    0.0004    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.0013    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.0455    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.0024    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.1310    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    1.5782    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.0243    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    2.2007    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.9757    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.0063    ! daughter  Energy  J     T   strength 
+   27     3.077  0.0  1.0    0.0065    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.0038    ! daughter  Energy  J     T   strength 
+   12: Sum =     5.9999                                     
+   13     3.077  0.0  1.0    ! parent  Energy  J     T
+   7     ! # daughters 
+    1   -13.413  1.0  0.0    0.2581    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0209    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.3749    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.7806    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    3.1648    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0195    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    1.3812    ! daughter  Energy  J     T   strength 
+   13: Sum =     6.0000                                     
+   14     4.288  2.0  1.0    ! parent  Energy  J     T
+  21     ! # daughters 
+    1   -13.413  1.0  0.0    0.0082    ! daughter  Energy  J     T   strength 
+    2   -12.469  3.0  0.0    0.0311    ! daughter  Energy  J     T   strength 
+    5    -9.933  2.0  1.0    0.0000    ! daughter  Energy  J     T   strength 
+    6    -9.530  1.0  0.0    0.0002    ! daughter  Energy  J     T   strength 
+    7    -9.227  3.0  0.0    0.0206    ! daughter  Energy  J     T   strength 
+    8    -8.786  2.0  0.0    0.0184    ! daughter  Energy  J     T   strength 
+   10    -7.572  2.0  1.0    0.0021    ! daughter  Energy  J     T   strength 
+   12    -6.505  3.0  1.0    0.0306    ! daughter  Energy  J     T   strength 
+   14    -6.032  1.0  0.0    0.0140    ! daughter  Energy  J     T   strength 
+   15    -5.815  2.0  0.0    0.3471    ! daughter  Energy  J     T   strength 
+   16    -3.697  1.0  0.0    0.0148    ! daughter  Energy  J     T   strength 
+   18    -2.902  3.0  0.0    0.9592    ! daughter  Energy  J     T   strength 
+   19    -2.051  2.0  1.0    0.4836    ! daughter  Energy  J     T   strength 
+   20    -1.821  2.0  0.0    0.0051    ! daughter  Energy  J     T   strength 
+   21    -1.162  1.0  1.0    0.0486    ! daughter  Energy  J     T   strength 
+   22    -0.991  3.0  1.0    2.0099    ! daughter  Energy  J     T   strength 
+   23    -0.901  2.0  1.0    0.0498    ! daughter  Energy  J     T   strength 
+   24    -0.577  1.0  1.0    0.0023    ! daughter  Energy  J     T   strength 
+   25     1.996  3.0  0.0    1.0360    ! daughter  Energy  J     T   strength 
+   26     2.915  1.0  0.0    0.2843    ! daughter  Energy  J     T   strength 
+   28     4.288  2.0  1.0    0.6341    ! daughter  Energy  J     T   strength 
+   14: Sum =     5.9999                                     
+   15    -7.413  0.0  1.0    ! parent  OPPOSITE PARITY 
+   7     ! # daughters 
+   29   -12.333  1.0  0.0    5.1939    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0723    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.0603    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.0727    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.5911    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0036    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.0061    ! daughter  OPPOSITE PARITY 
+    1: Sum =     6.0000                                     
+   16    -5.414  2.0  1.0    ! parent  OPPOSITE PARITY 
+  21     ! # daughters 
+   29   -12.333  1.0  0.0    0.0003    ! daughter  OPPOSITE PARITY 
+   30   -11.389  3.0  0.0    1.9630    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.1308    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.2163    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.0822    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    1.1509    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.0679    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.0721    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    1.0159    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.3661    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.0380    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.0073    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.4878    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    0.0045    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.2317    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.0904    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.0008    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0651    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.0003    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.0084    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.0000    ! daughter  OPPOSITE PARITY 
+    2: Sum =     6.0000                                     
+   17    -3.886  4.0  1.0    ! parent  OPPOSITE PARITY 
+  10     ! # daughters 
+   30   -11.389  3.0  0.0    0.0272    ! daughter  OPPOSITE PARITY 
+   31   -11.092  5.0  0.0    1.0567    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.2043    ! daughter  OPPOSITE PARITY 
+   37    -7.325  4.0  1.0    0.8058    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.0086    ! daughter  OPPOSITE PARITY 
+   41    -5.353  4.0  0.0    0.8645    ! daughter  OPPOSITE PARITY 
+   45    -1.832  4.0  1.0    0.6135    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    1.5389    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.8430    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.0374    ! daughter  OPPOSITE PARITY 
+    3: Sum =     6.0000                                     
+   18    -3.053  2.0  1.0    ! parent  OPPOSITE PARITY 
+  21     ! # daughters 
+   29   -12.333  1.0  0.0    0.0600    ! daughter  OPPOSITE PARITY 
+   30   -11.389  3.0  0.0    0.2406    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.0679    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0467    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    1.5399    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.8182    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.1467    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.3239    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.0048    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.7965    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    1.0137    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.0536    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.2865    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    0.0030    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.1417    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.0199    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.1002    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.3286    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.0029    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.0025    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.0021    ! daughter  OPPOSITE PARITY 
+    4: Sum =     6.0000                                     
+   19    -2.820  0.0  1.0    ! parent  OPPOSITE PARITY 
+   7     ! # daughters 
+   29   -12.333  1.0  0.0    0.1373    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    5.0012    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.5801    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.0602    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.2196    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0013    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.0003    ! daughter  OPPOSITE PARITY 
+    5: Sum =     6.0001                                     
+   20    -1.986  3.0  1.0    ! parent  OPPOSITE PARITY 
+  17     ! # daughters 
+   30   -11.389  3.0  0.0    0.0004    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.0515    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.0023    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.3626    ! daughter  OPPOSITE PARITY 
+   37    -7.325  4.0  1.0    0.0111    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.2314    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    2.6263    ! daughter  OPPOSITE PARITY 
+   41    -5.353  4.0  0.0    0.0000    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.0454    ! daughter  OPPOSITE PARITY 
+   45    -1.832  4.0  1.0    0.0085    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.0075    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.1206    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    1.5717    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.0151    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.9139    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.0101    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.0218    ! daughter  OPPOSITE PARITY 
+    6: Sum =     6.0000                                     
+   21     1.607  4.0  1.0    ! parent  OPPOSITE PARITY 
+  10     ! # daughters 
+   30   -11.389  3.0  0.0    0.0151    ! daughter  OPPOSITE PARITY 
+   31   -11.092  5.0  0.0    1.3878    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.0445    ! daughter  OPPOSITE PARITY 
+   37    -7.325  4.0  1.0    0.6135    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.0066    ! daughter  OPPOSITE PARITY 
+   41    -5.353  4.0  0.0    1.1354    ! daughter  OPPOSITE PARITY 
+   45    -1.832  4.0  1.0    0.4672    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.0138    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.6418    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    1.6742    ! daughter  OPPOSITE PARITY 
+    7: Sum =     6.0000                                     
+   22     2.468  2.0  1.0    ! parent  OPPOSITE PARITY 
+  21     ! # daughters 
+   29   -12.333  1.0  0.0    0.0814    ! daughter  OPPOSITE PARITY 
+   30   -11.389  3.0  0.0    0.3770    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.4878    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0602    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.5079    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.0113    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.2865    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.1688    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.0004    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.4500    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.0643    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.0135    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.6199    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    0.1144    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.5812    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.3967    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.0010    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0786    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.0633    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    1.1521    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.4836    ! daughter  OPPOSITE PARITY 
+    8: Sum =     6.0000                                     
+   23     3.357  1.0  1.0    ! parent  OPPOSITE PARITY 
+  18     ! # daughters 
+   29   -12.333  1.0  0.0    0.1138    ! daughter  OPPOSITE PARITY 
+   32   -10.852  0.0  1.0    0.1970    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.3861    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.2488    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.0022    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.2362    ! daughter  OPPOSITE PARITY 
+   39    -6.259  0.0  1.0    0.0732    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.2121    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.0003    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.3902    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.9687    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    0.0097    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.9757    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.0029    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0243    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    1.0228    ! daughter  OPPOSITE PARITY 
+   55     4.157  0.0  1.0    1.0549    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.0810    ! daughter  OPPOSITE PARITY 
+    9: Sum =     6.0000                                     
+   24     3.528  3.0  1.0    ! parent  OPPOSITE PARITY 
+  17     ! # daughters 
+   30   -11.389  3.0  0.0    0.0417    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.0646    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.2274    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.0037    ! daughter  OPPOSITE PARITY 
+   37    -7.325  4.0  1.0    1.0838    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.0142    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.0151    ! daughter  OPPOSITE PARITY 
+   41    -5.353  4.0  0.0    0.0000    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.0005    ! daughter  OPPOSITE PARITY 
+   45    -1.832  4.0  1.0    0.8252    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.7278    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.2833    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    0.0161    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.1770    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.1012    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.9828    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    1.4356    ! daughter  OPPOSITE PARITY 
+   10: Sum =     6.0000                                     
+   25     3.618  2.0  1.0    ! parent  OPPOSITE PARITY 
+  21     ! # daughters 
+   29   -12.333  1.0  0.0    0.0009    ! daughter  OPPOSITE PARITY 
+   30   -11.389  3.0  0.0    0.1710    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.0008    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0079    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.5231    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.0012    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.1002    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    1.2795    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.0898    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.0403    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.1221    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.0007    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.0010    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    1.8730    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.0017    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    0.1417    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.1756    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    1.3204    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    0.0066    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.0926    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.0498    ! daughter  OPPOSITE PARITY 
+   11: Sum =     6.0000                                     
+   26     3.942  1.0  1.0    ! parent  OPPOSITE PARITY 
+  18     ! # daughters 
+   29   -12.333  1.0  0.0    0.0007    ! daughter  OPPOSITE PARITY 
+   32   -10.852  0.0  1.0    0.0012    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.1086    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0015    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.3640    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.5477    ! daughter  OPPOSITE PARITY 
+   39    -6.259  0.0  1.0    0.0004    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.0013    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.0455    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.0024    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.1310    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    1.5782    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.0243    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    2.2007    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.9757    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.0063    ! daughter  OPPOSITE PARITY 
+   55     4.157  0.0  1.0    0.0065    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.0038    ! daughter  OPPOSITE PARITY 
+   12: Sum =     5.9999                                     
+   27     7.596  0.0  1.0    ! parent  OPPOSITE PARITY 
+   7     ! # daughters 
+   29   -12.333  1.0  0.0    0.2581    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0209    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.3749    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.7806    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    3.1648    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0195    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    1.3812    ! daughter  OPPOSITE PARITY 
+   13: Sum =     6.0000                                     
+   28     8.807  2.0  1.0    ! parent  OPPOSITE PARITY 
+  21     ! # daughters 
+   29   -12.333  1.0  0.0    0.0082    ! daughter  OPPOSITE PARITY 
+   30   -11.389  3.0  0.0    0.0311    ! daughter  OPPOSITE PARITY 
+   33    -8.853  2.0  1.0    0.0000    ! daughter  OPPOSITE PARITY 
+   34    -8.450  1.0  0.0    0.0002    ! daughter  OPPOSITE PARITY 
+   35    -8.147  3.0  0.0    0.0206    ! daughter  OPPOSITE PARITY 
+   36    -7.706  2.0  0.0    0.0184    ! daughter  OPPOSITE PARITY 
+   38    -6.492  2.0  1.0    0.0021    ! daughter  OPPOSITE PARITY 
+   40    -5.425  3.0  1.0    0.0306    ! daughter  OPPOSITE PARITY 
+   42    -4.952  1.0  0.0    0.0140    ! daughter  OPPOSITE PARITY 
+   43    -4.735  2.0  0.0    0.3471    ! daughter  OPPOSITE PARITY 
+   44    -2.617  1.0  0.0    0.0148    ! daughter  OPPOSITE PARITY 
+   46    -1.822  3.0  0.0    0.9592    ! daughter  OPPOSITE PARITY 
+   47    -0.971  2.0  1.0    0.4836    ! daughter  OPPOSITE PARITY 
+   48    -0.741  2.0  0.0    0.0051    ! daughter  OPPOSITE PARITY 
+   49    -0.082  1.0  1.0    0.0486    ! daughter  OPPOSITE PARITY 
+   50     0.089  3.0  1.0    2.0099    ! daughter  OPPOSITE PARITY 
+   51     0.179  2.0  1.0    0.0498    ! daughter  OPPOSITE PARITY 
+   52     0.503  1.0  1.0    0.0023    ! daughter  OPPOSITE PARITY 
+   53     3.076  3.0  0.0    1.0360    ! daughter  OPPOSITE PARITY 
+   54     3.995  1.0  0.0    0.2843    ! daughter  OPPOSITE PARITY 
+   56     5.368  2.0  1.0    0.6341    ! daughter  OPPOSITE PARITY 
+   14: Sum =     5.9999                                     
